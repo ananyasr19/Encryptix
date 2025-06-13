@@ -27,7 +27,20 @@ A basic calculator built with modern web technologies for performing simple arit
 - Responsive calculator UI  
 - Supports addition, subtraction, multiplication, and division  
 - Clear and equals buttons  
-- Clean layout and interactive buttons  
+- Clean layout and interactive buttons
+
+---
+
+### 3. [Tribute Page](./abdul-kalam-tribute)
+
+A tribute website dedicated to Dr. A.P.J. Abdul Kalam, showcasing his life, achievements, and legacy.
+
+**🔹 Features:**
+- Hero section with title, subtitle, image, and dates  
+- Biography organized in sections: Early Life, Scientific Career, Presidency  
+- Visual layout with relevant images (APJ1, APJ2, APJ3, APJ4)  
+- Elegant and responsive design with Tailwind CSS  
+- Aesthetic storytelling to honor the "Missile Man of India"
 
 ---
 
